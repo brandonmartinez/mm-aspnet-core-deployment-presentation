@@ -1,4 +1,4 @@
-# Grunt Through Your Next ASP.NET App
+# Build and Deploy Your ASP.NET Core Applications… Automatically!
 
 ## Presentation Abstract
 
